@@ -7,10 +7,9 @@
 </div>
 
 ### 🌱 About Me
-- 🎓 I’m an **Information Science and Engineering student**
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🎓 I’m a **Full Stack Development**
 - 💬 Ask me about: **JavaScript, React, Node.js**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **besilkilithattil@gmail.com**
 - ⚡ Fun fact: I love building cool tech every day!
 
 ### 🧰 Tech I Use
